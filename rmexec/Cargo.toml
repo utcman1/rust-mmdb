@@ -1,0 +1,11 @@
+# SPDX-License-Identifier: MIT
+
+[package]
+name = "rmexec"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+default-run = "rmdb"
+
+[dependencies]
+rmcore = { path = "../rmcore" }

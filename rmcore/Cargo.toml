@@ -1,0 +1,9 @@
+# SPDX-License-Identifier: MIT
+
+[package]
+name = "rmcore"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
